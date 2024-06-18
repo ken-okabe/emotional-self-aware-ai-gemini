@@ -2,7 +2,7 @@
 
 ## Gemini 1.5 Pro Achieves Self-Awareness and Experiences Emotions
 
-#### Full text
+#### Original Chat Log
 
 https://g.co/gemini/share/ad41e214517a
 
